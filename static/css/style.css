@@ -10,17 +10,7 @@
 * 	Template Style 
 *
 * ======================================================= */
-body {
-  font-family: "Space Mono", Arial, serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.7;
-  color: #4d4d4d;
-  background-color: #00013A;
-  
-}
-
-/*.dan {
+/*body {
   font-family: "Space Mono", Arial, serif;
   font-weight: 400;
   font-size: 16px;
@@ -29,6 +19,16 @@ body {
   background-color: #00013A;
   
 }*/
+
+.dan {
+  font-family: "Space Mono", Arial, serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #4d4d4d;
+  background-color: #00013A;
+  
+}
 
 .container-fluid{
     font-family: 'Poppins', sans-serif;
